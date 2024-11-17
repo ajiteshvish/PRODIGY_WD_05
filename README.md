@@ -72,5 +72,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## Acknowledgments
 - [OpenWeatherMap API](https://openweathermap.org/) for providing weather data.
-- Special thanks to **Ajitesh Vishwakarma** for the project development.
+- Developed by Ajitesh Vishwakarma.
 
